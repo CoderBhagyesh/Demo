@@ -6576,19 +6576,19 @@
     ]
   },
   "packageFolders": {
-    "/home/bhagyesh.khobragade@corp.easyrewardz.com/.nuget/packages/": {}
+    "/home/nikhil.sharma@corp.easyrewardz.com/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/bhagyesh.khobragade@corp.easyrewardz.com/Desktop/DotNet_Practice/AMAZONBOOKS/AMAZONBOOKS.csproj",
+      "projectUniqueName": "/home/nikhil.sharma@corp.easyrewardz.com/DemoBhag/Demo/AMAZONBOOKS.csproj",
       "projectName": "AMAZONBOOKS",
-      "projectPath": "/home/bhagyesh.khobragade@corp.easyrewardz.com/Desktop/DotNet_Practice/AMAZONBOOKS/AMAZONBOOKS.csproj",
-      "packagesPath": "/home/bhagyesh.khobragade@corp.easyrewardz.com/.nuget/packages/",
-      "outputPath": "/home/bhagyesh.khobragade@corp.easyrewardz.com/Desktop/DotNet_Practice/AMAZONBOOKS/obj/",
+      "projectPath": "/home/nikhil.sharma@corp.easyrewardz.com/DemoBhag/Demo/AMAZONBOOKS.csproj",
+      "packagesPath": "/home/nikhil.sharma@corp.easyrewardz.com/.nuget/packages/",
+      "outputPath": "/home/nikhil.sharma@corp.easyrewardz.com/DemoBhag/Demo/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/bhagyesh.khobragade@corp.easyrewardz.com/.nuget/NuGet/NuGet.Config"
+        "/home/nikhil.sharma@corp.easyrewardz.com/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
